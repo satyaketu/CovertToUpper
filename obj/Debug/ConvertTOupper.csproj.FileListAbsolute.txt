@@ -1,0 +1,10 @@
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\bin\Debug\ConvertTOupper.exe.config
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\bin\Debug\ConvertTOupper.exe
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\bin\Debug\ConvertTOupper.pdb
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\obj\Debug\ConvertTOupper.csprojAssemblyReference.cache
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\obj\Debug\ConvertTOupper.Form1.resources
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\obj\Debug\ConvertTOupper.Properties.Resources.resources
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\obj\Debug\ConvertTOupper.csproj.GenerateResource.cache
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\obj\Debug\ConvertTOupper.csproj.CoreCompileInputs.cache
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\obj\Debug\ConvertTOupper.exe
+C:\Users\Satya\source\repos\ConvertTOupper\ConvertTOupper\obj\Debug\ConvertTOupper.pdb
